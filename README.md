@@ -44,6 +44,12 @@ https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212
 
 ![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_49_36](https://github.com/user-attachments/assets/4a05294a-9bed-4d2e-82f3-3085d7ca997e)
 
+Лабораторная работа №3
+Создание таблицы users:
+![VirtualBox_Kiryanovafffffffffffffff_01_03_2025_10_43_40](https://github.com/user-attachments/assets/5b49dd32-f7eb-4b12-ac63-53a8990ab5d7)
+
+![VirtualBox_Kiryanovafffffffffffffff_01_03_2025_10_16_04](https://github.com/user-attachments/assets/d968877f-08e4-4995-b98f-980537b521d9)
+
 Полезные команды (шпаргалки)
 *   **Однострочный INSERT:** `INSERT INTO table (column1, column2) VALUES (value1, value2);` (Вставка одной записи в таблицу).
 *   **Многострочный INSERT:** `INSERT INTO table (column1, column2) VALUES (value11, value12), (value21, value22), ...` (Вставка нескольких записей в таблицу одним запросом).
