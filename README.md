@@ -12,33 +12,37 @@ https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212
 
 Выбор новых и отмененных заказов: Необходимо получить список заказов со статусом "new" или "cancelled".
 
-https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_10_00.png?raw=true
+![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_10_00](https://github.com/user-attachments/assets/6d3c79ee-e1ee-4e60-8533-0618946f5674)
+
 
 
 Заказы с большим количеством товаров: Выбираются заказы, где количество товаров (products_count) больше 3. Выводятся только идентификатор заказа (id) и общая стоимость (sum).
-
-https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_10_00.png?raw=true
+![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_10_09](https://github.com/user-attachments/assets/3a04615d-ea9d-4ad7-8a08-c0014b86cfa7)
 
 Лабораторная работа №2
 
 Задачи по работе с таблицами orders и products.
 
 Три самых дешевых заказа: Необходимо найти три заказа с самой низкой стоимостью. Результаты сортируются по убыванию цены. Отмененные заказы не учитываются.
-https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_16_02.png?raw=true
+
+![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_16_02](https://github.com/user-attachments/assets/8aba39a0-6240-4997-baa5-d8664f5554e2)
 
 Два самых дорогих заказа: Нужно получить два заказа с максимальной стоимостью. Данные сортируются по убыванию цены, отмененные заказы исключаются.
+![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_16_06](https://github.com/user-attachments/assets/f693bc76-9930-4f17-94d9-21ac11efb4c9)
 
-https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_16_06.png?raw=true
+
 Добавление нового заказа: В таблицу orders добавляется информация о новом заказе на сумму 8000 рублей, состоящем из 4 товаров (products).
-https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_37_16.png?raw=true
+![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_37_16](https://github.com/user-attachments/assets/f6cf47ca-0586-4cdd-b511-435ad35d7d54)
+
 
 Добавление нового товара: В таблицу products вносятся данные о новом товаре: "VR-очки" стоимостью 70000 рублей, в количестве 2 штук (count).
 
-https://github.com/essex107/-/blob/main/VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_44_17.png?raw=true
+![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_44_17](https://github.com/user-attachments/assets/1aacd50f-83c6-4c19-9975-ef5c8932e28c)
+
 
 Исправление ошибки в названии товара: В таблице products название товара "IMAC" исправляется на "PS5".
 
-[image фото 11] [image фото 12]
+![VirtualBox_kiryanova21212121212112121212121212112_27_02_2025_23_49_36](https://github.com/user-attachments/assets/4a05294a-9bed-4d2e-82f3-3085d7ca997e)
 
 Полезные команды (шпаргалки)
 *   **Однострочный INSERT:** `INSERT INTO table (column1, column2) VALUES (value1, value2);` (Вставка одной записи в таблицу).
